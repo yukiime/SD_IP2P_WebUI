@@ -1,0 +1,4 @@
+Animemix_v15_epoch=000015-step=000009999.ckpt
+Animemix_v15_epoch=000006.ckpt
+Animemix_v15_epoch=000006-ori01.ckpt
+Animemix_v13_saveWeight.ckpt

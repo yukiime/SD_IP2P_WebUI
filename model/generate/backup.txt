@@ -1,0 +1,2 @@
+animeStyle_mixv15.ckpt
+animeStyle_mixv15.safetensors
