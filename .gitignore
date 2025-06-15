@@ -4,10 +4,11 @@
 *.safetensors
 *.onnx
 *.jsonl
-*.txt
+# *.txt
+# *.jpg
 
 
 log/
 .ipynb_checkpoints/
 __pycache__/
-./data/clip-filtered-dataset/
+data/clip-filtered-dataset/
