@@ -1,0 +1,13 @@
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.jsonl
+*.txt
+
+
+log/
+.ipynb_checkpoints/
+__pycache__/
+./data/clip-filtered-dataset/
